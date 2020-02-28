@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exemplo>
+	<atributo id="1">
+		<nome>vinicius</nome>
+		<sobrenome>silva</sobrenome>
+		<altura>1.80</altura>
+		<animalDeEstimacao>
+			<animal>cachorro</animal>
+			<animal>gato</animal>
+		</animalDeEstimacao>
+		<celular>iphone</celular>
+	</atributo>
+</exemplo>
